@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "url": "https://hextris.io/"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird Clone",
+    "description": "The classic addictive bird game.",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "url": "https://wayou.github.io/flappybird/"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Classic snake game in your browser.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "url": "https://patorjk.com/games/snake/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world's most popular puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "url": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Classic arcade action.",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road?",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "url": "https://poki.com/en/g/crossy-road"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Speed down the slope in this endless runner.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://slopegame.online/"
+  }
+]
